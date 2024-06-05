@@ -1,0 +1,17 @@
+
+.width_35{
+    width: 35%;
+}
+
+.footer{
+    width: 50%;
+    align-content: center;
+    border-color: rgba(0, 0, 0, 0.175);
+}
+.littleFont{
+    font-size: 0.7rem;
+}
+
+.pointer{
+    cursor:pointer
+}

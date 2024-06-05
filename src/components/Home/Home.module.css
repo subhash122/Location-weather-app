@@ -1,0 +1,10 @@
+.search_icon{
+    top:15%;
+    right:2%;
+    font-size: large;
+    cursor: pointer;
+}
+
+.cursor_pointer{
+    cursor: pointer;
+}
